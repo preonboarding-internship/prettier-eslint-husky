@@ -4,6 +4,6 @@
   },
   "extends": ["./.eslintrc.base.js"],
   "rules": {
-    "no-var": "error" // var 금지
+    "no-var": "warn" // var 금지
   }
 }
